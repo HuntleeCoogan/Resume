@@ -24,7 +24,7 @@
     }]
   },
   "work": [{
-    "name": "Company",
+    "name": "Walter and Eliza Institute of Medical Research",
     "position": "President",
     "url": "https://company.com",
     "startDate": "2013-01-01",
@@ -82,7 +82,8 @@
     "keywords": [
       "HTML",
       "CSS",
-      "JavaScript"
+      "JavaScript",
+      "Django"
     ]
   }],
   "languages": [{
