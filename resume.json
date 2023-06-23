@@ -4,9 +4,9 @@
   },
   "basics": {
     "name": "Liam Parker",
-    "label": "Data Entry",
+    "label": "Main CV",
     "image": "",
-    "email": "john@gmail.com",
+    "email": "liam.m.parker@protonmail.com",
     "phone": "0466965517",
     "url": "https://liamparker.com",
     "summary": "A summary of Liam Parker…",
@@ -20,7 +20,7 @@
     "profiles": [{
       "network": "Twitter",
       "username": "john",
-      "url": "https://twitter.com/john"
+      "url": "https://twitter.com/"
     }]
   },
   "work": [{
