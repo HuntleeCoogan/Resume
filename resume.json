@@ -1,15 +1,15 @@
 {
   "meta": {
-    "theme": "elegant"
+    "theme": "kendall"
   },
   "basics": {
     "name": "Liam Parker",
-    "label": "Main CV 4",
-    "image": "",
+    "label": "",
+    "image": "https://i.ibb.co/nQdtnZQ/1.jpg",
     "email": "liam.m.parker@protonmail.com",
-    "phone": "0466965517",
+    "phone": "04*****66965517",
     "url": "https://liamparker.com",
-    "summary": "A summary of Liam Parker the man the legend the guy…",
+    "summary": "Skilled worker with 6+ years of experience in a high-pressure and fast-paced professional environment. Independently motivated team player aiming to boost department efficiency by utilising my strong ability to successfully complete projects well within their deadlines. I have a high attention to detail and general respect for the work I do. When I do a job, I do it right. I would love to come work for you and with you.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -18,20 +18,46 @@
       "region": ""
     },
     "profiles": [{
-      "network": "Twitter",
-      "username": "john",
-      "url": "https://twitter.com/"
+      "network": "Linkedin",
+      "username": "lmprkr",
+      "url": "https://linkedin.com/in/lmprkr"
     }]
   },
   "work": [{
-    "name": "Walter and Eliza Institute of Medical Research",
-    "position": "President",
-    "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description…",
+    "name": "Hotel Jesus/Mamasita",
+    "position": "Dishwasher/Kitchen Porter",
+    "url": "https://www.hoteljesus.com.au",
+    "startDate": "2021-12-19",
+    "endDate": "2022-12-22",
+    "summary": "Worked as a Dishwasher.",
     "highlights": [
-      "Started the company"
+      "Cleaned kitchen and organised cooking utensils.",
+      "Worked effectively with all kitchen personnel, to promote happy working environment.",
+      "Maintained a clean and organised kitchen environment."
+    ]
+  },{
+    "name": "Walter and Eliza Institute of Medical Research",
+    "position": "Software Tester",
+    "url": "https://www.wehi.edu.au",
+    "startDate": "2015-01-01",
+    "endDate": "2018-12-20",
+    "summary": "Served as a friendly, hardworking, and punctual employee in the IT Department.",
+    "highlights": [
+      "Worked on multiple new in-house software products.",
+      "Setup test plans using Microsoft Visual Studio and Microsoft Excel.",
+      "Wrote documentation for software systems using Microsoft Word.",
+      "Data Entry duties."
+    ]
+  },{
+    "name": "Karma Imperial",
+    "position": "Freelance Software Developer",
+    "url": "https://karmaimperial.com",
+    "startDate": "2011-01-01",
+    "endDate": "2014-12-20",
+    "summary": "Worked as a Freelance Software Developer building iOS Apps and Websites for various clients.",
+    "highlights": [
+      "Learned how to develop software products from start to finish.",
+      "Developed programming skills."
     ]
   }],
   "skills": [{
@@ -43,16 +69,17 @@
       "JavaScript",
       "Django"
     ]
-  }],
-  "interests": [{
-    "name": "Wildlife",
+  },{
+    "name": "Data Entry",
+    "level": "Master",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      "Microsoft Office",
+      "Microsoft Excel",
+      "Notion",
+      "Django"
     ]
   }],
   "references": [{
-    "name": "Jane Doe",
     "reference": "References available on request"
   }]
 }
